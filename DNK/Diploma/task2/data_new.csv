@@ -1,0 +1,786 @@
+﻿Purchased Bike,Age,Cars,Children,Commute Distance,Income,Region
+No,25,1,0,0-1 Miles,10000,Pacific
+No,25,2,0,0-1 Miles,20000,Europe
+No,26,1,0,5-10 Miles,30000,North America
+No,26,1,3,0-1 Miles,30000,Europe
+No,26,2,0,0-1 Miles,30000,North America
+No,26,2,0,1-2 Miles,20000,Europe
+No,26,2,0,5-10 Miles,30000,North America
+No,26,2,0,5-10 Miles,40000,North America
+No,27,1,0,1-2 Miles,30000,Europe
+No,27,1,0,1-2 Miles,40000,North America
+No,27,1,0,1-2 Miles,60000,North America
+No,27,1,0,2-5 Miles,10000,Pacific
+No,27,1,0,5-10 Miles,30000,North America
+No,27,1,0,5-10 Miles,40000,North America
+No,27,2,0,5-10 Miles,30000,North America
+No,27,2,0,5-10 Miles,40000,North America
+No,27,2,3,0-1 Miles,30000,Europe
+No,27,2,5,0-1 Miles,20000,Europe
+No,28,1,0,0-1 Miles,30000,Europe
+No,28,1,0,1-2 Miles,20000,Europe
+No,28,1,0,1-2 Miles,30000,Europe
+No,28,1,0,2-5 Miles,20000,Europe
+No,28,1,0,2-5 Miles,30000,Europe
+No,28,1,0,5-10 Miles,30000,North America
+No,28,1,0,5-10 Miles,40000,North America
+No,28,2,0,0-1 Miles,30000,North America
+No,28,2,0,5-10 Miles,30000,North America
+No,28,2,0,5-10 Miles,40000,North America
+No,29,1,0,2-5 Miles,20000,Europe
+No,29,1,0,2-5 Miles,30000,Europe
+No,29,1,0,5-10 Miles,40000,North America
+No,29,2,0,1-2 Miles,60000,North America
+No,29,2,0,5-10 Miles,40000,North America
+No,29,2,0,5-10 Miles,60000,North America
+No,30,0,4,0-1 Miles,40000,North America
+No,30,1,0,2-5 Miles,20000,Europe
+No,30,1,0,2-5 Miles,30000,Europe
+No,30,1,0,5-10 Miles,40000,North America
+No,30,2,0,0-1 Miles,10000,Europe
+No,30,2,0,1-2 Miles,40000,North America
+No,30,2,0,1-2 Miles,60000,North America
+No,30,2,0,5-10 Miles,30000,North America
+No,30,2,0,5-10 Miles,40000,North America
+No,30,2,0,5-10 Miles,60000,North America
+No,30,3,0,10+ Miles,80000,Pacific
+No,31,0,3,1-2 Miles,40000,North America
+No,31,1,0,1-2 Miles,30000,North America
+No,31,1,0,2-5 Miles,30000,Europe
+No,31,1,0,5-10 Miles,20000,Europe
+No,31,1,0,5-10 Miles,40000,North America
+No,31,1,3,0-1 Miles,40000,North America
+No,31,2,0,1-2 Miles,60000,North America
+No,31,2,0,5-10 Miles,40000,North America
+No,31,2,0,5-10 Miles,60000,North America
+No,31,3,0,10+ Miles,80000,Pacific
+No,31,3,0,2-5 Miles,60000,Pacific
+No,31,4,0,2-5 Miles,60000,Pacific
+No,31,4,4,0-1 Miles,130000,Pacific
+No,32,0,0,0-1 Miles,30000,North America
+No,32,0,0,0-1 Miles,50000,North America
+No,32,1,0,1-2 Miles,30000,Europe
+No,32,1,0,2-5 Miles,30000,Europe
+No,32,1,0,5-10 Miles,30000,North America
+No,32,1,3,1-2 Miles,40000,North America
+No,32,2,0,0-1 Miles,10000,Europe
+No,32,2,0,0-1 Miles,20000,Europe
+No,32,2,0,1-2 Miles,10000,Europe
+No,32,2,0,1-2 Miles,20000,Europe
+No,32,2,0,5-10 Miles,30000,North America
+No,32,2,0,5-10 Miles,60000,North America
+No,32,2,3,0-1 Miles,40000,North America
+No,32,3,0,10+ Miles,80000,Pacific
+No,33,0,0,1-2 Miles,50000,North America
+No,33,0,1,0-1 Miles,60000,North America
+No,33,0,2,0-1 Miles,40000,Europe
+No,33,1,0,1-2 Miles,60000,North America
+No,33,1,0,2-5 Miles,30000,Europe
+No,33,2,0,0-1 Miles,10000,Europe
+No,33,2,0,1-2 Miles,10000,Europe
+No,33,3,0,10+ Miles,80000,Pacific
+No,34,0,0,0-1 Miles,50000,North America
+No,34,0,1,0-1 Miles,60000,North America
+No,34,0,1,1-2 Miles,50000,North America
+No,34,0,1,2-5 Miles,70000,North America
+No,34,0,2,0-1 Miles,40000,Europe
+No,34,0,3,2-5 Miles,70000,North America
+No,34,1,0,2-5 Miles,30000,Europe
+No,34,1,2,0-1 Miles,40000,Europe
+No,34,2,0,0-1 Miles,10000,Europe
+No,34,2,0,0-1 Miles,20000,Europe
+No,34,2,0,1-2 Miles,10000,Europe
+No,35,0,1,0-1 Miles,50000,North America
+No,35,0,1,0-1 Miles,60000,North America
+No,35,0,1,1-2 Miles,60000,North America
+No,35,0,2,0-1 Miles,10000,Europe
+No,35,1,1,0-1 Miles,50000,North America
+No,35,2,0,0-1 Miles,10000,Europe
+No,35,2,0,1-2 Miles,10000,Europe
+No,35,2,2,1-2 Miles,40000,Europe
+No,35,3,0,10+ Miles,100000,Pacific
+No,35,4,0,10+ Miles,80000,Pacific
+No,36,0,0,1-2 Miles,50000,Europe
+No,36,0,1,0-1 Miles,50000,North America
+No,36,0,1,2-5 Miles,60000,North America
+No,36,0,2,2-5 Miles,40000,North America
+No,36,1,4,0-1 Miles,80000,Pacific
+No,36,2,2,1-2 Miles,40000,Europe
+No,36,4,0,10+ Miles,90000,Pacific
+No,37,0,1,0-1 Miles,10000,Europe
+No,37,0,1,0-1 Miles,20000,Europe
+No,37,1,2,2-5 Miles,60000,Pacific
+No,37,2,5,0-1 Miles,70000,North America
+No,38,1,0,0-1 Miles,70000,North America
+No,38,1,0,5-10 Miles,70000,Pacific
+No,38,1,2,0-1 Miles,10000,Europe
+No,38,1,2,2-5 Miles,70000,North America
+No,38,3,3,1-2 Miles,100000,North America
+No,38,4,1,0-1 Miles,120000,North America
+No,38,4,5,1-2 Miles,80000,Pacific
+No,39,0,0,0-1 Miles,40000,Europe
+No,39,0,0,0-1 Miles,60000,North America
+No,39,0,0,2-5 Miles,70000,North America
+No,39,1,1,1-2 Miles,30000,Europe
+No,39,1,1,2-5 Miles,30000,Europe
+No,39,2,5,0-1 Miles,80000,Pacific
+No,39,3,5,10+ Miles,70000,Pacific
+No,39,4,5,10+ Miles,70000,Pacific
+No,40,0,0,0-1 Miles,60000,North America
+No,40,0,0,0-1 Miles,80000,North America
+No,40,0,1,0-1 Miles,10000,Europe
+No,40,0,3,2-5 Miles,80000,North America
+No,40,1,0,5-10 Miles,100000,Pacific
+No,40,1,2,0-1 Miles,20000,Europe
+No,40,1,3,0-1 Miles,50000,North America
+No,40,2,1,0-1 Miles,30000,Europe
+No,40,2,3,2-5 Miles,50000,North America
+No,40,2,4,0-1 Miles,10000,Europe
+No,40,3,0,1-2 Miles,130000,North America
+No,40,3,5,0-1 Miles,80000,Pacific
+No,40,3,5,2-5 Miles,90000,North America
+No,40,4,1,0-1 Miles,130000,North America
+No,40,4,2,1-2 Miles,120000,North America
+No,40,4,4,0-1 Miles,100000,North America
+No,40,4,5,1-2 Miles,80000,Pacific
+No,41,0,1,0-1 Miles,40000,Europe
+No,41,1,0,5-10 Miles,70000,Pacific
+No,41,2,2,0-1 Miles,130000,North America
+No,41,2,3,0-1 Miles,50000,North America
+No,41,2,5,0-1 Miles,10000,Europe
+No,41,3,3,10+ Miles,50000,North America
+No,41,3,4,10+ Miles,60000,Pacific
+No,41,3,5,0-1 Miles,90000,North America
+No,41,3,5,10+ Miles,60000,North America
+No,41,4,1,0-1 Miles,130000,North America
+No,41,4,3,0-1 Miles,100000,North America
+No,41,4,5,10+ Miles,70000,Pacific
+No,42,0,1,0-1 Miles,40000,Europe
+No,42,0,3,0-1 Miles,30000,Europe
+No,42,0,4,0-1 Miles,80000,North America
+No,42,0,4,1-2 Miles,80000,North America
+No,42,1,0,0-1 Miles,40000,North America
+No,42,1,0,5-10 Miles,70000,Pacific
+No,42,2,1,0-1 Miles,30000,Europe
+No,42,2,2,0-1 Miles,20000,Europe
+No,42,2,2,0-1 Miles,30000,Europe
+No,42,2,4,0-1 Miles,50000,North America
+No,42,2,4,0-1 Miles,60000,North America
+No,42,3,4,10+ Miles,50000,North America
+No,42,3,4,10+ Miles,60000,North America
+No,42,3,4,5-10 Miles,60000,North America
+No,42,4,3,1-2 Miles,110000,North America
+No,43,0,1,0-1 Miles,20000,Europe
+No,43,0,2,0-1 Miles,30000,Europe
+No,43,0,3,0-1 Miles,30000,Europe
+No,43,0,4,0-1 Miles,80000,North America
+No,43,1,0,0-1 Miles,70000,North America
+No,43,1,1,0-1 Miles,30000,Europe
+No,43,1,1,5-10 Miles,110000,North America
+No,43,1,3,0-1 Miles,30000,Europe
+No,43,2,3,0-1 Miles,10000,Europe
+No,43,2,3,0-1 Miles,20000,Europe
+No,43,2,3,5-10 Miles,60000,Pacific
+No,43,2,4,0-1 Miles,60000,North America
+No,43,2,4,0-1 Miles,80000,North America
+No,43,2,4,2-5 Miles,40000,North America
+No,43,2,5,5-10 Miles,70000,Pacific
+No,44,0,1,0-1 Miles,10000,Europe
+No,44,0,1,0-1 Miles,20000,Europe
+No,44,1,1,0-1 Miles,70000,North America
+No,44,1,1,2-5 Miles,60000,North America
+No,44,2,1,1-2 Miles,110000,North America
+No,44,2,5,0-1 Miles,70000,Pacific
+No,44,2,5,0-1 Miles,80000,North America
+No,44,2,5,5-10 Miles,70000,Pacific
+No,44,2,5,5-10 Miles,80000,North America
+No,44,3,1,1-2 Miles,100000,North America
+No,44,3,5,2-5 Miles,70000,North America
+No,44,4,1,0-1 Miles,130000,North America
+No,45,0,1,0-1 Miles,20000,Europe
+No,45,0,3,0-1 Miles,30000,Europe
+No,45,0,4,0-1 Miles,30000,Europe
+No,45,1,0,2-5 Miles,40000,North America
+No,45,1,1,1-2 Miles,10000,Europe
+No,45,1,1,2-5 Miles,130000,North America
+No,45,1,1,5-10 Miles,60000,Pacific
+No,45,1,4,1-2 Miles,90000,North America
+No,45,2,4,1-2 Miles,90000,North America
+No,45,2,5,5-10 Miles,70000,Pacific
+No,45,3,1,5-10 Miles,110000,North America
+No,45,3,5,5-10 Miles,70000,North America
+No,45,3,5,5-10 Miles,70000,Pacific
+No,45,3,5,5-10 Miles,80000,North America
+No,45,4,1,2-5 Miles,120000,North America
+No,45,4,3,1-2 Miles,100000,North America
+No,46,0,3,0-1 Miles,30000,Europe
+No,46,0,4,2-5 Miles,60000,North America
+No,46,1,1,0-1 Miles,60000,North America
+No,46,1,1,5-10 Miles,60000,Pacific
+No,46,1,1,5-10 Miles,90000,Pacific
+No,46,1,4,10+ Miles,100000,Pacific
+No,46,2,4,2-5 Miles,40000,North America
+No,46,3,5,10+ Miles,70000,North America
+No,46,3,5,1-2 Miles,80000,North America
+No,46,3,5,5-10 Miles,70000,Pacific
+No,46,4,5,2-5 Miles,110000,North America
+No,47,0,1,0-1 Miles,30000,Europe
+No,47,0,4,0-1 Miles,60000,North America
+No,47,0,4,0-1 Miles,80000,North America
+No,47,0,4,1-2 Miles,60000,North America
+No,47,0,4,1-2 Miles,80000,North America
+No,47,0,5,0-1 Miles,80000,North America
+No,47,1,1,0-1 Miles,60000,North America
+No,47,1,2,0-1 Miles,40000,North America
+No,47,1,2,5-10 Miles,90000,Pacific
+No,47,1,4,2-5 Miles,120000,Pacific
+No,47,1,5,0-1 Miles,70000,North America
+No,47,1,5,2-5 Miles,60000,North America
+No,47,2,5,2-5 Miles,70000,North America
+No,47,3,1,2-5 Miles,100000,Pacific
+No,47,3,5,10+ Miles,70000,North America
+No,48,0,0,5-10 Miles,130000,Pacific
+No,48,0,1,0-1 Miles,10000,Europe
+No,48,0,4,0-1 Miles,80000,North America
+No,48,0,4,1-2 Miles,80000,North America
+No,48,1,0,10+ Miles,130000,Pacific
+No,48,1,2,0-1 Miles,40000,North America
+No,48,2,2,0-1 Miles,20000,North America
+No,48,2,2,1-2 Miles,30000,North America
+No,48,2,2,5-10 Miles,60000,North America
+No,48,2,2,5-10 Miles,70000,North America
+No,48,3,1,0-1 Miles,100000,Pacific
+No,48,3,2,5-10 Miles,110000,Europe
+No,48,3,4,2-5 Miles,110000,Pacific
+No,48,4,1,2-5 Miles,100000,Pacific
+No,48,4,2,0-1 Miles,150000,Europe
+No,49,0,1,0-1 Miles,10000,Europe
+No,49,0,2,1-2 Miles,10000,Europe
+No,49,1,3,5-10 Miles,70000,North America
+No,49,2,2,0-1 Miles,20000,North America
+No,49,2,2,0-1 Miles,30000,North America
+No,49,2,2,1-2 Miles,20000,North America
+No,49,2,2,1-2 Miles,30000,North America
+No,49,2,2,1-2 Miles,70000,North America
+No,49,2,2,5-10 Miles,60000,North America
+No,49,2,2,5-10 Miles,80000,North America
+No,49,2,3,0-1 Miles,20000,North America
+No,50,0,2,0-1 Miles,10000,Europe
+No,50,0,2,1-2 Miles,10000,Europe
+No,50,2,2,1-2 Miles,30000,North America
+No,50,2,2,1-2 Miles,80000,North America
+No,50,2,2,5-10 Miles,60000,North America
+No,50,2,3,0-1 Miles,20000,North America
+No,50,2,3,1-2 Miles,20000,North America
+No,50,4,3,5-10 Miles,120000,Europe
+No,51,0,1,0-1 Miles,20000,Europe
+No,51,0,2,1-2 Miles,10000,Europe
+No,51,0,4,5-10 Miles,70000,North America
+No,51,1,3,2-5 Miles,90000,Europe
+No,51,2,2,1-2 Miles,30000,North America
+No,51,2,2,1-2 Miles,60000,North America
+No,51,2,2,5-10 Miles,60000,North America
+No,52,1,1,5-10 Miles,30000,North America
+No,52,1,2,2-5 Miles,10000,Europe
+No,52,2,2,1-2 Miles,40000,Pacific
+No,52,2,2,1-2 Miles,80000,North America
+No,52,2,3,0-1 Miles,20000,North America
+No,52,2,3,1-2 Miles,70000,North America
+No,52,2,3,5-10 Miles,70000,North America
+No,52,4,3,0-1 Miles,130000,Europe
+No,53,2,2,0-1 Miles,20000,North America
+No,53,2,2,10+ Miles,70000,North America
+No,53,2,2,1-2 Miles,10000,North America
+No,53,2,2,2-5 Miles,70000,North America
+No,53,2,3,1-2 Miles,70000,North America
+No,53,2,3,2-5 Miles,60000,North America
+No,53,2,4,10+ Miles,70000,North America
+No,53,2,4,10+ Miles,80000,Europe
+No,53,2,4,2-5 Miles,80000,Europe
+No,53,4,3,10+ Miles,110000,Europe
+No,54,2,2,10+ Miles,70000,North America
+No,54,2,3,5-10 Miles,40000,North America
+No,54,2,4,10+ Miles,80000,Europe
+No,54,3,2,5-10 Miles,20000,Pacific
+No,54,3,4,10+ Miles,130000,Europe
+No,55,1,2,10+ Miles,60000,North America
+No,55,1,4,1-2 Miles,70000,North America
+No,55,2,2,10+ Miles,60000,North America
+No,55,2,2,2-5 Miles,40000,North America
+No,55,2,3,5-10 Miles,30000,Pacific
+No,55,3,4,0-1 Miles,130000,Europe
+No,55,4,5,0-1 Miles,170000,Europe
+No,56,0,2,10+ Miles,60000,North America
+No,56,1,2,10+ Miles,60000,North America
+No,56,1,3,1-2 Miles,80000,North America
+No,56,1,4,10+ Miles,70000,North America
+No,56,1,4,1-2 Miles,70000,North America
+No,56,2,2,10+ Miles,60000,North America
+No,56,2,3,5-10 Miles,30000,Pacific
+No,56,3,4,10+ Miles,120000,Europe
+No,56,3,4,5-10 Miles,90000,Europe
+No,56,3,5,5-10 Miles,80000,Europe
+No,56,4,3,10+ Miles,100000,Europe
+No,56,4,3,5-10 Miles,100000,Europe
+No,57,0,2,10+ Miles,60000,North America
+No,57,2,2,10+ Miles,40000,North America
+No,57,2,2,5-10 Miles,20000,Pacific
+No,57,3,5,10+ Miles,80000,Europe
+No,58,0,2,10+ Miles,60000,North America
+No,58,1,2,10+ Miles,70000,North America
+No,58,1,4,1-2 Miles,70000,North America
+No,58,2,2,5-10 Miles,10000,Pacific
+No,58,2,2,5-10 Miles,20000,Pacific
+No,58,4,4,10+ Miles,90000,Europe
+No,58,4,4,10+ Miles,130000,Europe
+No,59,0,2,2-5 Miles,60000,North America
+No,59,1,2,10+ Miles,70000,North America
+No,59,1,2,2-5 Miles,70000,North America
+No,59,1,4,10+ Miles,70000,North America
+No,59,1,4,1-2 Miles,70000,North America
+No,59,2,2,2-5 Miles,40000,North America
+No,59,2,4,2-5 Miles,60000,North America
+No,59,2,5,10+ Miles,80000,Europe
+No,59,2,5,10+ Miles,90000,Europe
+No,59,3,5,10+ Miles,60000,North America
+No,59,4,2,10+ Miles,100000,Europe
+No,59,4,5,0-1 Miles,130000,Europe
+No,60,2,4,10+ Miles,60000,North America
+No,60,2,4,1-2 Miles,20000,Pacific
+No,60,2,4,2-5 Miles,60000,North America
+No,60,2,4,5-10 Miles,20000,Pacific
+No,60,2,5,10+ Miles,40000,North America
+No,60,2,5,2-5 Miles,40000,North America
+No,60,2,5,2-5 Miles,80000,Europe
+No,60,4,5,10+ Miles,70000,North America
+No,61,2,4,10+ Miles,40000,North America
+No,61,2,4,10+ Miles,70000,North America
+No,61,2,5,10+ Miles,40000,North America
+No,61,2,5,2-5 Miles,70000,North America
+No,61,2,5,2-5 Miles,80000,Europe
+No,62,2,3,1-2 Miles,20000,Pacific
+No,62,2,5,10+ Miles,80000,Europe
+No,62,2,5,10+ Miles,90000,Europe
+No,62,2,5,1-2 Miles,10000,Pacific
+No,62,2,5,2-5 Miles,80000,Europe
+No,62,3,2,5-10 Miles,120000,North America
+No,62,3,5,1-2 Miles,10000,Pacific
+No,63,0,1,0-1 Miles,30000,Europe
+No,63,0,1,1-2 Miles,20000,Europe
+No,63,0,2,0-1 Miles,20000,Europe
+No,63,2,3,1-2 Miles,60000,North America
+No,63,2,4,10+ Miles,50000,North America
+No,63,2,4,10+ Miles,60000,North America
+No,63,2,5,10+ Miles,70000,North America
+No,64,0,1,0-1 Miles,30000,Europe
+No,64,2,3,10+ Miles,60000,North America
+No,64,2,4,10+ Miles,40000,North America
+No,64,2,4,10+ Miles,50000,North America
+No,64,2,5,1-2 Miles,80000,North America
+No,64,2,5,5-10 Miles,80000,North America
+No,64,3,2,5-10 Miles,120000,North America
+No,65,0,1,0-1 Miles,20000,Europe
+No,65,0,1,0-1 Miles,30000,Europe
+No,65,2,2,0-1 Miles,40000,Pacific
+No,65,2,4,5-10 Miles,80000,North America
+No,65,3,2,1-2 Miles,100000,North America
+No,66,0,1,0-1 Miles,20000,Europe
+No,66,1,2,0-1 Miles,10000,Europe
+No,66,2,3,10+ Miles,60000,North America
+No,66,2,3,1-2 Miles,60000,North America
+No,66,4,1,0-1 Miles,170000,North America
+No,67,2,2,0-1 Miles,30000,Pacific
+No,67,2,2,0-1 Miles,40000,Pacific
+No,67,2,2,5-10 Miles,30000,Pacific
+No,67,2,3,1-2 Miles,60000,North America
+No,67,2,4,5-10 Miles,80000,North America
+No,67,4,2,0-1 Miles,130000,North America
+No,68,1,2,2-5 Miles,10000,Europe
+No,68,2,2,5-10 Miles,30000,Pacific
+No,68,2,4,5-10 Miles,80000,North America
+No,69,2,2,0-1 Miles,30000,Pacific
+No,69,2,2,5-10 Miles,30000,Pacific
+No,69,2,2,5-10 Miles,50000,North America
+No,69,2,3,10+ Miles,50000,North America
+No,69,2,3,10+ Miles,60000,North America
+No,69,2,4,5-10 Miles,40000,North America
+No,69,3,2,2-5 Miles,130000,North America
+No,70,0,1,0-1 Miles,10000,Europe
+No,70,2,2,5-10 Miles,60000,North America
+No,70,2,4,5-10 Miles,80000,North America
+No,71,2,2,5-10 Miles,50000,North America
+No,73,1,4,5-10 Miles,90000,North America
+No,73,2,4,5-10 Miles,70000,North America
+No,78,2,3,2-5 Miles,20000,North America
+No,80,0,1,0-1 Miles,40000,Europe
+No,89,1,1,0-1 Miles,40000,Europe
+Yes,25,0,0,0-1 Miles,20000,Pacific
+Yes,25,1,0,2-5 Miles,10000,Pacific
+Yes,25,2,0,0-1 Miles,30000,North America
+Yes,26,0,0,0-1 Miles,20000,Pacific
+Yes,26,1,0,0-1 Miles,10000,Pacific
+Yes,26,1,0,1-2 Miles,10000,Pacific
+Yes,26,2,0,1-2 Miles,20000,Europe
+Yes,27,0,0,0-1 Miles,20000,Pacific
+Yes,27,0,1,2-5 Miles,10000,Pacific
+Yes,27,1,0,5-10 Miles,60000,North America
+Yes,27,2,0,0-1 Miles,40000,North America
+Yes,27,2,0,0-1 Miles,70000,North America
+Yes,27,2,3,0-1 Miles,30000,Europe
+Yes,28,0,0,0-1 Miles,20000,Pacific
+Yes,28,1,0,0-1 Miles,10000,Pacific
+Yes,28,2,0,0-1 Miles,40000,North America
+Yes,28,2,0,5-10 Miles,40000,North America
+Yes,28,2,3,0-1 Miles,30000,Europe
+Yes,29,0,0,0-1 Miles,20000,Pacific
+Yes,29,1,0,0-1 Miles,30000,Europe
+Yes,29,2,0,10+ Miles,80000,Pacific
+Yes,30,0,0,0-1 Miles,10000,Europe
+Yes,30,1,0,0-1 Miles,30000,Europe
+Yes,30,1,3,1-2 Miles,40000,North America
+Yes,30,3,0,10+ Miles,70000,Pacific
+Yes,31,1,0,2-5 Miles,30000,Europe
+Yes,31,1,3,1-2 Miles,40000,North America
+Yes,31,2,0,1-2 Miles,20000,Europe
+Yes,31,2,0,1-2 Miles,30000,North America
+Yes,31,2,0,1-2 Miles,40000,North America
+Yes,31,4,0,10+ Miles,70000,Pacific
+Yes,32,0,0,1-2 Miles,50000,North America
+Yes,32,0,1,1-2 Miles,40000,Europe
+Yes,32,1,0,2-5 Miles,30000,Europe
+Yes,32,1,0,5-10 Miles,60000,North America
+Yes,32,1,1,0-1 Miles,40000,Europe
+Yes,32,1,1,1-2 Miles,40000,Europe
+Yes,32,2,0,0-1 Miles,20000,Europe
+Yes,32,2,0,1-2 Miles,60000,North America
+Yes,32,2,0,5-10 Miles,60000,North America
+Yes,32,3,0,10+ Miles,110000,Pacific
+Yes,32,4,0,10+ Miles,70000,Pacific
+Yes,32,4,0,10+ Miles,120000,Pacific
+Yes,33,0,0,1-2 Miles,50000,North America
+Yes,33,0,1,0-1 Miles,50000,North America
+Yes,33,0,1,1-2 Miles,50000,North America
+Yes,33,0,2,1-2 Miles,40000,Europe
+Yes,33,1,0,1-2 Miles,60000,North America
+Yes,33,1,0,2-5 Miles,30000,Europe
+Yes,33,1,1,0-1 Miles,40000,Europe
+Yes,33,1,1,1-2 Miles,40000,Europe
+Yes,33,2,0,5-10 Miles,60000,North America
+Yes,33,3,0,10+ Miles,80000,Pacific
+Yes,33,4,2,0-1 Miles,160000,Pacific
+Yes,34,0,1,0-1 Miles,50000,North America
+Yes,34,0,1,2-5 Miles,50000,North America
+Yes,34,0,1,2-5 Miles,60000,North America
+Yes,34,0,1,2-5 Miles,70000,North America
+Yes,34,0,2,2-5 Miles,70000,North America
+Yes,34,1,0,1-2 Miles,80000,North America
+Yes,34,1,0,2-5 Miles,30000,Europe
+Yes,34,2,0,1-2 Miles,20000,Europe
+Yes,34,2,0,5-10 Miles,70000,North America
+Yes,34,3,0,10+ Miles,90000,Pacific
+Yes,34,3,0,10+ Miles,110000,Pacific
+Yes,34,4,0,10+ Miles,100000,Pacific
+Yes,34,4,0,10+ Miles,120000,Pacific
+Yes,35,0,0,0-1 Miles,30000,Europe
+Yes,35,0,0,0-1 Miles,40000,Europe
+Yes,35,0,1,0-1 Miles,60000,North America
+Yes,35,0,1,0-1 Miles,70000,North America
+Yes,35,0,1,2-5 Miles,60000,North America
+Yes,35,0,2,1-2 Miles,40000,Europe
+Yes,35,0,3,0-1 Miles,70000,North America
+Yes,35,0,3,2-5 Miles,70000,North America
+Yes,35,0,4,2-5 Miles,70000,North America
+Yes,35,1,1,5-10 Miles,10000,Europe
+Yes,35,1,2,1-2 Miles,40000,Europe
+Yes,35,2,0,1-2 Miles,20000,Europe
+Yes,35,3,0,10+ Miles,100000,Pacific
+Yes,35,4,0,10+ Miles,90000,Pacific
+Yes,36,0,0,0-1 Miles,30000,Europe
+Yes,36,0,0,0-1 Miles,40000,Europe
+Yes,36,0,0,0-1 Miles,50000,Europe
+Yes,36,0,1,0-1 Miles,90000,Pacific
+Yes,36,0,1,2-5 Miles,60000,North America
+Yes,36,0,1,2-5 Miles,100000,Pacific
+Yes,36,0,2,0-1 Miles,10000,Europe
+Yes,36,0,2,0-1 Miles,60000,North America
+Yes,36,0,2,0-1 Miles,90000,Pacific
+Yes,36,0,2,2-5 Miles,60000,North America
+Yes,36,0,3,0-1 Miles,80000,North America
+Yes,36,0,4,0-1 Miles,70000,North America
+Yes,36,0,4,0-1 Miles,80000,Pacific
+Yes,36,0,4,2-5 Miles,70000,North America
+Yes,36,1,0,2-5 Miles,20000,Europe
+Yes,36,1,1,0-1 Miles,40000,North America
+Yes,36,1,1,0-1 Miles,130000,Pacific
+Yes,36,1,4,0-1 Miles,80000,Pacific
+Yes,36,2,2,0-1 Miles,40000,Europe
+Yes,36,4,0,10+ Miles,120000,Pacific
+Yes,37,0,0,0-1 Miles,10000,Europe
+Yes,37,0,0,0-1 Miles,30000,Europe
+Yes,37,0,0,0-1 Miles,40000,Europe
+Yes,37,0,0,0-1 Miles,50000,Europe
+Yes,37,0,1,0-1 Miles,30000,Europe
+Yes,37,0,1,0-1 Miles,90000,Pacific
+Yes,37,0,1,1-2 Miles,30000,Europe
+Yes,37,0,1,2-5 Miles,60000,North America
+Yes,37,0,2,0-1 Miles,10000,Europe
+Yes,37,0,2,0-1 Miles,80000,North America
+Yes,37,0,2,2-5 Miles,50000,North America
+Yes,37,0,3,0-1 Miles,10000,Europe
+Yes,37,0,3,0-1 Miles,80000,North America
+Yes,37,1,0,0-1 Miles,70000,North America
+Yes,37,1,0,2-5 Miles,70000,North America
+Yes,37,1,0,5-10 Miles,70000,Pacific
+Yes,37,1,2,0-1 Miles,60000,Pacific
+Yes,37,1,2,0-1 Miles,70000,North America
+Yes,37,1,2,2-5 Miles,60000,Pacific
+Yes,37,3,2,0-1 Miles,110000,North America
+Yes,37,4,0,0-1 Miles,150000,Pacific
+Yes,38,0,0,0-1 Miles,40000,Europe
+Yes,38,0,1,0-1 Miles,30000,Europe
+Yes,38,0,2,0-1 Miles,60000,North America
+Yes,38,0,2,2-5 Miles,70000,North America
+Yes,38,0,4,1-2 Miles,90000,Pacific
+Yes,38,1,0,0-1 Miles,80000,North America
+Yes,38,1,0,2-5 Miles,60000,North America
+Yes,38,1,0,2-5 Miles,70000,North America
+Yes,38,1,2,0-1 Miles,10000,Europe
+Yes,38,1,2,0-1 Miles,50000,North America
+Yes,38,1,2,0-1 Miles,60000,Pacific
+Yes,38,1,2,2-5 Miles,50000,North America
+Yes,38,1,2,2-5 Miles,60000,Pacific
+Yes,38,1,2,2-5 Miles,70000,North America
+Yes,38,1,4,1-2 Miles,90000,North America
+Yes,38,2,0,0-1 Miles,130000,North America
+Yes,39,0,0,0-1 Miles,40000,Europe
+Yes,39,0,0,1-2 Miles,60000,North America
+Yes,39,1,0,1-2 Miles,100000,Pacific
+Yes,39,1,0,2-5 Miles,50000,North America
+Yes,39,1,1,0-1 Miles,30000,Europe
+Yes,39,1,1,1-2 Miles,30000,Europe
+Yes,39,1,2,0-1 Miles,50000,North America
+Yes,39,1,2,0-1 Miles,60000,Pacific
+Yes,39,1,3,0-1 Miles,10000,Europe
+Yes,39,3,2,0-1 Miles,120000,North America
+Yes,40,0,0,0-1 Miles,40000,Europe
+Yes,40,0,0,0-1 Miles,80000,Europe
+Yes,40,0,0,1-2 Miles,80000,North America
+Yes,40,0,0,2-5 Miles,100000,Pacific
+Yes,40,0,2,0-1 Miles,20000,Europe
+Yes,40,0,2,1-2 Miles,90000,Pacific
+Yes,40,0,3,2-5 Miles,60000,North America
+Yes,40,1,1,1-2 Miles,20000,Europe
+Yes,40,1,3,2-5 Miles,60000,North America
+Yes,40,1,4,0-1 Miles,10000,Europe
+Yes,40,2,4,0-1 Miles,10000,Europe
+Yes,40,3,3,10+ Miles,80000,North America
+Yes,40,4,3,2-5 Miles,110000,North America
+Yes,41,0,3,0-1 Miles,20000,Europe
+Yes,41,1,0,0-1 Miles,70000,Pacific
+Yes,41,1,0,1-2 Miles,80000,Pacific
+Yes,41,1,0,5-10 Miles,70000,Pacific
+Yes,41,1,3,0-1 Miles,80000,North America
+Yes,41,2,1,0-1 Miles,30000,Europe
+Yes,41,2,3,2-5 Miles,50000,North America
+Yes,41,2,3,2-5 Miles,80000,North America
+Yes,41,2,4,0-1 Miles,10000,Europe
+Yes,41,2,4,0-1 Miles,60000,North America
+Yes,41,2,4,2-5 Miles,60000,North America
+Yes,41,4,4,2-5 Miles,100000,North America
+Yes,42,0,1,0-1 Miles,40000,Europe
+Yes,42,0,3,0-1 Miles,30000,Europe
+Yes,42,0,3,2-5 Miles,60000,North America
+Yes,42,1,0,0-1 Miles,70000,Pacific
+Yes,42,1,0,2-5 Miles,40000,North America
+Yes,42,1,0,5-10 Miles,70000,Pacific
+Yes,42,1,3,0-1 Miles,20000,Europe
+Yes,42,2,4,2-5 Miles,60000,North America
+Yes,42,2,4,2-5 Miles,70000,North America
+Yes,42,3,2,0-1 Miles,130000,North America
+Yes,42,4,4,5-10 Miles,110000,North America
+Yes,43,0,1,0-1 Miles,40000,Europe
+Yes,43,0,3,2-5 Miles,60000,North America
+Yes,43,1,1,0-1 Miles,40000,Europe
+Yes,43,1,1,5-10 Miles,60000,Pacific
+Yes,43,1,4,0-1 Miles,20000,Europe
+Yes,43,2,0,0-1 Miles,90000,North America
+Yes,43,2,0,5-10 Miles,70000,Pacific
+Yes,43,2,3,0-1 Miles,60000,Pacific
+Yes,43,2,4,0-1 Miles,70000,North America
+Yes,43,2,4,2-5 Miles,60000,North America
+Yes,43,2,4,2-5 Miles,70000,North America
+Yes,43,3,4,5-10 Miles,120000,North America
+Yes,44,0,5,0-1 Miles,30000,Europe
+Yes,44,1,1,0-1 Miles,30000,Europe
+Yes,44,1,1,0-1 Miles,40000,Europe
+Yes,44,1,1,0-1 Miles,60000,North America
+Yes,44,1,1,0-1 Miles,70000,North America
+Yes,44,1,1,2-5 Miles,70000,North America
+Yes,44,1,1,5-10 Miles,60000,Pacific
+Yes,44,2,4,0-1 Miles,40000,North America
+Yes,44,2,4,2-5 Miles,40000,North America
+Yes,44,3,1,0-1 Miles,150000,North America
+Yes,44,4,1,2-5 Miles,130000,North America
+Yes,45,0,4,0-1 Miles,30000,Europe
+Yes,45,1,1,0-1 Miles,60000,North America
+Yes,45,1,1,0-1 Miles,60000,Pacific
+Yes,45,1,1,2-5 Miles,60000,North America
+Yes,45,2,1,0-1 Miles,130000,North America
+Yes,45,3,1,0-1 Miles,130000,North America
+Yes,45,3,4,1-2 Miles,90000,North America
+Yes,45,4,1,5-10 Miles,110000,North America
+Yes,46,0,1,0-1 Miles,20000,Europe
+Yes,46,0,3,0-1 Miles,30000,Europe
+Yes,46,1,1,0-1 Miles,60000,Pacific
+Yes,46,1,1,0-1 Miles,70000,North America
+Yes,46,1,1,2-5 Miles,10000,Europe
+Yes,46,1,1,2-5 Miles,60000,North America
+Yes,46,1,1,5-10 Miles,60000,Pacific
+Yes,46,1,2,0-1 Miles,20000,Europe
+Yes,46,2,1,0-1 Miles,120000,Pacific
+Yes,46,3,1,0-1 Miles,100000,Pacific
+Yes,46,3,5,10+ Miles,70000,North America
+Yes,46,4,1,5-10 Miles,120000,North America
+Yes,47,0,0,0-1 Miles,30000,Europe
+Yes,47,0,3,0-1 Miles,30000,Europe
+Yes,47,0,3,0-1 Miles,60000,North America
+Yes,47,0,4,0-1 Miles,60000,North America
+Yes,47,0,4,1-2 Miles,60000,North America
+Yes,47,0,5,0-1 Miles,90000,North America
+Yes,47,1,1,0-1 Miles,60000,North America
+Yes,47,1,1,0-1 Miles,80000,North America
+Yes,47,1,1,2-5 Miles,90000,Pacific
+Yes,47,1,2,1-2 Miles,40000,North America
+Yes,47,1,2,2-5 Miles,20000,Europe
+Yes,47,1,3,0-1 Miles,60000,North America
+Yes,47,1,5,0-1 Miles,80000,Pacific
+Yes,47,1,5,5-10 Miles,100000,Pacific
+Yes,47,3,0,0-1 Miles,160000,Pacific
+Yes,48,0,0,2-5 Miles,130000,Pacific
+Yes,48,1,1,0-1 Miles,60000,North America
+Yes,48,1,1,1-2 Miles,40000,North America
+Yes,48,1,1,2-5 Miles,60000,North America
+Yes,48,1,1,2-5 Miles,80000,North America
+Yes,48,1,2,0-1 Miles,20000,Europe
+Yes,48,1,2,2-5 Miles,90000,North America
+Yes,48,1,3,0-1 Miles,60000,North America
+Yes,48,1,3,2-5 Miles,60000,North America
+Yes,48,2,2,1-2 Miles,60000,North America
+Yes,48,3,4,5-10 Miles,170000,Europe
+Yes,48,4,5,2-5 Miles,110000,Pacific
+Yes,49,0,2,5-10 Miles,70000,North America
+Yes,49,0,2,5-10 Miles,90000,North America
+Yes,49,1,1,1-2 Miles,40000,North America
+Yes,49,1,3,5-10 Miles,70000,North America
+Yes,49,2,2,1-2 Miles,60000,North America
+Yes,49,2,2,5-10 Miles,70000,Pacific
+Yes,49,2,3,0-1 Miles,80000,North America
+Yes,50,0,1,0-1 Miles,20000,Europe
+Yes,50,0,4,5-10 Miles,70000,North America
+Yes,50,1,2,0-1 Miles,10000,Europe
+Yes,50,2,2,1-2 Miles,30000,North America
+Yes,50,2,2,1-2 Miles,70000,Pacific
+Yes,50,2,2,1-2 Miles,80000,Pacific
+Yes,50,2,2,5-10 Miles,80000,Pacific
+Yes,50,2,3,2-5 Miles,80000,North America
+Yes,50,2,3,5-10 Miles,70000,North America
+Yes,50,3,3,5-10 Miles,130000,Europe
+Yes,50,4,3,5-10 Miles,120000,Europe
+Yes,51,0,2,0-1 Miles,10000,Europe
+Yes,51,1,1,1-2 Miles,40000,North America
+Yes,51,1,2,0-1 Miles,10000,Europe
+Yes,51,1,2,10+ Miles,90000,North America
+Yes,51,1,3,1-2 Miles,80000,North America
+Yes,51,2,1,1-2 Miles,30000,North America
+Yes,51,3,3,0-1 Miles,130000,Europe
+Yes,51,3,3,0-1 Miles,150000,Europe
+Yes,51,3,3,5-10 Miles,130000,Europe
+Yes,51,4,3,5-10 Miles,130000,Europe
+Yes,52,0,3,5-10 Miles,70000,North America
+Yes,52,1,1,2-5 Miles,30000,North America
+Yes,52,1,2,0-1 Miles,10000,Europe
+Yes,52,1,2,0-1 Miles,40000,Pacific
+Yes,52,1,2,5-10 Miles,40000,Pacific
+Yes,52,1,3,1-2 Miles,70000,North America
+Yes,52,2,2,5-10 Miles,40000,Pacific
+Yes,52,2,2,5-10 Miles,60000,North America
+Yes,52,2,2,5-10 Miles,70000,Pacific
+Yes,52,2,2,5-10 Miles,80000,Pacific
+Yes,52,2,3,10+ Miles,120000,Europe
+Yes,52,2,3,5-10 Miles,40000,Pacific
+Yes,52,2,3,5-10 Miles,60000,North America
+Yes,52,2,3,5-10 Miles,70000,North America
+Yes,53,1,1,5-10 Miles,30000,North America
+Yes,53,1,2,0-1 Miles,20000,Europe
+Yes,53,1,2,5-10 Miles,40000,Pacific
+Yes,53,1,4,2-5 Miles,80000,Europe
+Yes,53,2,2,1-2 Miles,10000,North America
+Yes,53,2,2,1-2 Miles,20000,North America
+Yes,53,2,2,1-2 Miles,40000,Pacific
+Yes,53,2,3,10+ Miles,60000,North America
+Yes,53,2,3,1-2 Miles,70000,North America
+Yes,53,2,3,5-10 Miles,30000,Pacific
+Yes,53,2,3,5-10 Miles,60000,North America
+Yes,53,2,3,5-10 Miles,70000,North America
+Yes,54,1,2,0-1 Miles,20000,Europe
+Yes,54,2,2,2-5 Miles,60000,North America
+Yes,54,2,2,2-5 Miles,70000,North America
+Yes,54,2,3,10+ Miles,60000,North America
+Yes,54,2,3,1-2 Miles,30000,Pacific
+Yes,54,2,3,1-2 Miles,40000,North America
+Yes,54,2,3,5-10 Miles,30000,Pacific
+Yes,54,2,3,5-10 Miles,40000,North America
+Yes,54,2,4,2-5 Miles,80000,Europe
+Yes,54,2,4,2-5 Miles,90000,Europe
+Yes,55,2,2,2-5 Miles,60000,North America
+Yes,55,2,2,5-10 Miles,20000,Pacific
+Yes,55,2,3,1-2 Miles,30000,Pacific
+Yes,55,2,4,10+ Miles,160000,Europe
+Yes,56,2,2,2-5 Miles,60000,North America
+Yes,56,2,3,1-2 Miles,30000,Pacific
+Yes,56,3,4,5-10 Miles,90000,Europe
+Yes,57,1,2,10+ Miles,60000,North America
+Yes,57,1,2,2-5 Miles,60000,North America
+Yes,57,2,2,2-5 Miles,60000,North America
+Yes,57,2,5,1-2 Miles,70000,North America
+Yes,58,1,2,2-5 Miles,40000,North America
+Yes,58,1,2,2-5 Miles,70000,North America
+Yes,58,2,4,5-10 Miles,20000,Pacific
+Yes,58,3,4,5-10 Miles,90000,Europe
+Yes,59,0,3,10+ Miles,100000,Europe
+Yes,59,1,2,2-5 Miles,70000,North America
+Yes,59,2,3,1-2 Miles,30000,Pacific
+Yes,59,2,4,5-10 Miles,40000,North America
+Yes,59,3,5,10+ Miles,60000,North America
+Yes,60,2,2,5-10 Miles,30000,Pacific
+Yes,60,3,5,10+ Miles,30000,North America
+Yes,60,3,5,10+ Miles,70000,North America
+Yes,60,3,5,2-5 Miles,40000,North America
+Yes,60,4,5,10+ Miles,40000,North America
+Yes,61,2,4,10+ Miles,40000,North America
+Yes,61,2,4,10+ Miles,60000,North America
+Yes,61,4,4,5-10 Miles,130000,Europe
+Yes,62,0,1,0-1 Miles,30000,Europe
+Yes,62,2,4,10+ Miles,40000,North America
+Yes,62,2,4,1-2 Miles,70000,North America
+Yes,62,2,5,2-5 Miles,90000,Europe
+Yes,63,2,2,5-10 Miles,40000,Pacific
+Yes,63,2,5,1-2 Miles,90000,North America
+Yes,64,0,1,0-1 Miles,20000,Europe
+Yes,64,1,2,5-10 Miles,50000,Pacific
+Yes,64,2,4,1-2 Miles,50000,North America
+Yes,65,0,1,0-1 Miles,30000,Europe
+Yes,65,2,2,5-10 Miles,40000,Pacific
+Yes,66,0,1,0-1 Miles,20000,Europe
+Yes,66,2,2,0-1 Miles,40000,Pacific
+Yes,66,2,2,5-10 Miles,40000,Pacific
+Yes,66,2,4,5-10 Miles,80000,North America
+Yes,66,2,5,1-2 Miles,90000,North America
+Yes,67,1,2,0-1 Miles,60000,Pacific
+Yes,67,2,5,10+ Miles,70000,North America
+Yes,70,0,1,0-1 Miles,10000,Europe
+Yes,72,2,4,0-1 Miles,80000,North America
+Yes,73,2,3,5-10 Miles,40000,North America
+Yes,73,3,1,2-5 Miles,100000,North America
+Yes,74,2,3,5-10 Miles,70000,North America
+Yes,78,1,5,1-2 Miles,100000,Pacific

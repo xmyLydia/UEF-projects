@@ -1,0 +1,3 @@
+select flattened [Model Region], (select $Time as [Year Month], Quantity from PredictTimeSeries([Quantity],3)) as [Future]
+from [Forecasting]
+where [Model Region] = 'M200 Europe'
